@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lighting Overview
+title: Lighting
 nav_order: 4
 has_children: true
 ---

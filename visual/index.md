@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visua3 Overview
+title: Visual
 nav_order: 3
 has_children: true
 ---

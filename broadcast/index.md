@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Broadcast Overview
+title: Broadcast
 nav_order: 5
 has_children: true
 ---
