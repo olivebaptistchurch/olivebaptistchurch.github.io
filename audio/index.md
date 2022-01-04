@@ -2,7 +2,7 @@
 layout: default
 title: Audio Overview
 nav_order: 2
-permalink: /
+has_children: true
 ---
 
 # Audio Training Outline
