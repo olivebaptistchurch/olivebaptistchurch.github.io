@@ -23,7 +23,7 @@ Everything we do centers around the Word of God and the vision of the pastor. Ou
 
 ## Training Breakdown
 
-* [Audio](./audio/index.md)
-* [Visual](./visual/index.md)
-* [Lighting](./lighting/index.md)
-* [Broadcast](./broadcast/index.md)
+* [Audio](./audio/)
+* [Visual](./visual/)
+* [Lighting](./lighting/)
+* [Broadcast](./broadcast/)
