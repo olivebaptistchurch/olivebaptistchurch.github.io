@@ -21,8 +21,9 @@ Our role in the church is to help take the message, worship, and evangelism from
 
 Everything we do centers around the Word of God and the vision of the pastor. Our desire is to come behind the person God has placed as shepherd of our local church and help him fulfill the vision God has placed on his heart.
 
-As a part of what we do, one of the major goals in production is to never be noticed. When that happens, especially in the room, you will know because everyone will be turning to the back of the room to see what happened!
-
 ## Training Breakdown
 
-1. [Audio](./audio/index.md)
+* [Audio](./audio/index.md)
+* [Visual](./visual/index.md)
+* [Lighting](./lighting/index.md)
+* [Broadcast](./broadcast/index.md)

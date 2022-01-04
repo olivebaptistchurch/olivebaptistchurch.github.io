@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Audio Training Outline
+# Audio Training Overview
 
 The audio training will be broken into three parts:
 
