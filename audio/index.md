@@ -1,10 +1,17 @@
+---
+layout: default
+title: Audio Overview
+nav_order: 2
+permalink: /
+---
+
 # Audio Training Outline
 
 The audio training will be broken into three parts:
 
- 1. [Basics](##Basics)
- 2. [Advanced](##Advanced)
- 3. [Board Specific](##Board-Specific)
+ 1. [Basics](#Basics)
+ 2. [Advanced](#Advanced)
+ 3. [Board Specific](#Board-Specific)
 
 The content will follow a very specific route, working first from how audio gets from one place to another and then moving to the processing why, how, and best practices. Everyone is encouraged to follow the initial order and then utilize the videos in any order as reference material.
 
@@ -12,11 +19,11 @@ The content will follow a very specific route, working first from how audio gets
 
 The basics will be constructed via the following order:
 
-1. [Overview](###Overview)
-2. [Audio Routing](###Audio-Routing)
-3. [The Stage](###The-Stage)
-4. [The Board](###The-Board)
-5. [Effects](###Effects)
+1. [Overview](#Overview)
+2. [Audio Routing](#Audio-Routing)
+3. [The Stage](#The-Stage)
+4. [The Board](#The-Board)
+5. [Effects](#Effects)
 
 ### Overview
   
